@@ -9,7 +9,7 @@ Zihui Gao<sup>1,3*</sup>, &nbsp;
 [Chunhua Shen](https://cshen.github.io/)<sup>1</sup>
 
 <sup>1</sup>[Zhejiang University](https://www.zju.edu.cn/english/), &nbsp;
-<sup>2</sup>[ByteDance Seed], &nbsp;
+<sup>2</sup>ByteDance Seed, &nbsp;
 <sup>3</sup>[Nanyang Technological University](https://www.ntu.edu.sg/), &nbsp;
 
 **ICCV2025**
