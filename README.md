@@ -13,7 +13,7 @@ Zihui Gao<sup>1,3*</sup>, &nbsp;
 <sup>3</sup>[Nanyang Technological University](https://www.ntu.edu.sg/), &nbsp;
 
 **ICCV2025**
-
+</div>
 
 ## 🚀 Overview
 
