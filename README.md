@@ -14,11 +14,21 @@ Zihui Gao<sup>1,3*</sup>, &nbsp;
 
 **ICCV2025**
 </div>
-[teaser_new_combine.pdf](https://github.com/user-attachments/files/21339608/teaser_new_combine.pdf)
+<div align="center">
+    <a href="[PROJECT_PAGE_LINK_HERE]">
+        <img src="assets/teaser.png" width="90%">
+    </a>
+</div>
+
 
 
 ## 🚀 Overview
-[fig1_new_3_5.pdf](https://github.com/user-attachments/files/21339609/fig1_new_3_5.pdf)
+<div align="center">
+    <a href="[PROJECT_PAGE_LINK_HERE]">
+        <img src="assets/main.png" width="90%">
+    </a>
+</div>
+
 
 ## 📖 Description
 
