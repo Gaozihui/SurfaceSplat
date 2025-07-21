@@ -16,7 +16,7 @@ Zihui Gao<sup>1,3*</sup>, &nbsp;
 </div>
 <div align="center">
     <a href="[PROJECT_PAGE_LINK_HERE]">
-        <img src="assets/teaser.png" width="90%">
+        <img src="teaser.png" width="90%">
     </a>
 </div>
 
@@ -25,7 +25,7 @@ Zihui Gao<sup>1,3*</sup>, &nbsp;
 ## 🚀 Overview
 <div align="center">
     <a href="[PROJECT_PAGE_LINK_HERE]">
-        <img src="assets/main.png" width="90%">
+        <img src="main.png" width="90%">
     </a>
 </div>
 
